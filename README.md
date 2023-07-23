@@ -1,6 +1,6 @@
  Olá! Eu sou Wendel Franklyn
 
-- 👨‍💻 Hoje trabalho como suporte técnico
+- 👨‍💻 Desenvolvedor full stack de C#
 - 💻 Estudando C# / Csharp
 - 👯 Estou procurando colaborar em: Desenvolvimento de Software
 - 🤔 Estou procurando ajuda para: Estágio de back-end
