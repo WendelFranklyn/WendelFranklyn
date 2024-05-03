@@ -5,7 +5,7 @@
 - 👯 Estou procurando colaborar em: Desenvolvimento de Software
 - 🤔 Estou procurando ajuda para: Estágio de Full-Stack
 - 😄 Pronomes: Ele / Dele
-
+##
 
 <div align="center">
   <a href="https://github.com/WendelFranklyn">
@@ -21,7 +21,7 @@
 </div>
 
   
-  ##
+##
 
   <div>
    <a href = "https://www.linkedin.com/in/wendel-franklyn-77932b1a7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white" targe="_blank"></a>
