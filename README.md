@@ -1,4 +1,4 @@
-## Wendel Franklyn, estudante de tecnologia 👨🏻‍💻💻
+## Wendel Franklyn, Desenvolvedor 👨🏻‍💻💻
 
 - 👨‍💻 Desenvolvedor full stack 
 - 💻 Estudando Javascript / TypeScript / CSS e HTML
