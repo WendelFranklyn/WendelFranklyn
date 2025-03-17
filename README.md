@@ -2,7 +2,6 @@
 
 - 👨‍💻 Desenvolvedor full stack C#
 - 💻 Estudando Javascript / TypeScript / CSS e HTML
-- 🤔 Estou procurando ajuda para: Estágio de Full-Stack
 - 😄 Pronomes: Ele / Dele
 ##
 
