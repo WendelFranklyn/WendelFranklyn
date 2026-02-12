@@ -6,13 +6,16 @@
 ##
 
 
-<h1 align="center">⚙Git Stats</h1>
+<h1 align="center">🎮 Bem vindo a minha taverna de códigos</h1>
 <div align="center">
 <a href="https://github.com/WendelFranklyn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WendelFranklyn&theme=tokyonight&rank_icon=github&card_width=300&show_icons=true&bg_color=90,000000,040449"  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelFranklyn&theme=tokyonight&layout=compact&langs_count=7&bg_color=90,000000,040449"/>
+ <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WendelFranklyn&theme=tokyonight&rank_icon=github&card_width=300&show_icons=true&bg_color=90,000000,040449"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelFranklyn&theme=tokyonight&layout=compact&langs_count=7&bg_color=90,000000,040449"/> -->
 </div>
-
+  <p align="center">
+  <img src="https://github.com/WendelFranklyn/WendelFranklyn/blob/main/XwI4.gif" width="150">
+  <img src="https://github.com/WendelFranklyn/WendelFranklyn/blob/main/dark-souls-bonfire.gif" width="100">
+</p>
   <!-- Snake -->
 <div align="center">
 <picture>
