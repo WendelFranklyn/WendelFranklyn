@@ -1,12 +1,17 @@
-## Wendel Franklyn, Desenvolvedor 👨🏻‍💻💻
+<h1 align="center">Wendel Franklyn</h1>
+<h3 align="center">Full-Stack Developer • C# / .NET • Gamer by passion</h3>
 
-- 👨‍💻 Desenvolvedor full stack C#
-- 💻 Estudando Javascript / TypeScript / CSS e HTML
-- 😄 Pronomes: Ele / Dele
-##
+<p align="center">
+  <i>Building reliable systems with clean code and real-world impact.</i>
+</p>
+
+<p align="center">
+  🎓 Systems Analysis and Development Graduate<br>
+  💻 Focused on Back-End Engineering with C#<br>
+  🌐 Expanding into Modern Web Technologies
+</p>
 
 
-<h1 align="center">🎮 Bem vindo a minha taverna de códigos</h1>
 <div align="center">
 <a href="https://github.com/WendelFranklyn">
  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WendelFranklyn&theme=tokyonight&rank_icon=github&card_width=300&show_icons=true&bg_color=90,000000,040449"  />
@@ -16,6 +21,7 @@
   <img src="https://github.com/WendelFranklyn/WendelFranklyn/blob/main/XwI4.gif" width="150">
   <img src="https://github.com/WendelFranklyn/WendelFranklyn/blob/main/dark-souls-bonfire.gif" width="100">
 </p>
+ <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
   <!-- Snake -->
 <div align="center">
 <picture>
